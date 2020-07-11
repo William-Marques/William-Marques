@@ -5,6 +5,8 @@
 
 Here are some ideas to get you started:
 
+- ⚡ Sou apaixonado por tecnologia e mundo Geek. Estudante de Desenvolvimento na FATEC Zona Sul procurando estágio   de Programação. Noções de Lógica, Algoritmos, SQL, Java, VBA, Android Studio, HTML, CSS e C++
+- 😄 Apelido: Matrix
 - 🔭 Atualmente estou somente estudando e concorrendo a vagas de estágios
 - 🌱 Estou aprendendo sobre Programação para Dispositivos Mobile (ex. Android Studio, Java...)
 - 💬 Posso ajudar novatos em computação, só me chamar
@@ -14,6 +16,6 @@ Here are some ideas to get you started:
   matrix.consultoria@gmail.com
   matrix.consultoria (Skype)
   
-- 😄 Apelido: Matrix
-- ⚡ Sou apaixonado por tecnologia e mundo Geek. Estudante de Desenvolvimento na FATEC Zona Sul procurando estágio   de Programação. Noções de Lógica, Algoritmos, SQL, Java, VBA, Android Studio, HTML, CSS e C++
+
+
 -->
