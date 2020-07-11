@@ -8,7 +8,7 @@
 
 - 🌱 Estou aprendendo sobre Programação para Dispositivos Mobile (ex. Android Studio, Java...)
 
-- 💬 Posso ajudar novatos em computação, só me chamar
+- 💬 Posso ajudar novatos em programação, só me chamar
 
 - 📫 Pode me contactar por:
   - linkedin.com/in/william--marques
