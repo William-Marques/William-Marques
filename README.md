@@ -12,7 +12,7 @@
 - 💬 Posso ajudar novatos em programação, só me chamar
 
 - 📫 Pode me contactar por:
-  - linkedin.com/in/william--marques
-  - youtube.com/mundomatrix
+  - [linkedin.com/in/william--marques](linkedin.com/in/william--marques)
+  - (youtube.com/mundomatrix)
   - matrix.consultoria@gmail.com
   - matrix.consultoria (Skype)
