@@ -15,4 +15,3 @@
   - www.linkedin.com/in/william--marques
   - www.youtube.com/mundomatrix
   - matrix.consultoria@gmail.com
-  - matrix.consultoria (Skype)
